@@ -1,1 +1,2 @@
-# Scribblepad-
+# ScribblePad
+## A blogging web application.
